@@ -1,4 +1,6 @@
 # hello-world
-getting started
+GitHub
 
-Now I am busy with testing!
+Getting started
+
+I am busy with my test!
